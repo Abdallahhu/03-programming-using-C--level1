@@ -1,0 +1,4 @@
+﻿  P30-Data-Type-conversion.cpp
+D:\Projecta\P30-Data-Type-conversion\P30-Data-Type-conversion.cpp(11,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projecta\P30-Data-Type-conversion\P30-Data-Type-conversion.cpp(22,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  P30-Data-Type-conversion.vcxproj -> D:\Projecta\P30-Data-Type-conversion\x64\Debug\P30-Data-Type-conversion.exe
